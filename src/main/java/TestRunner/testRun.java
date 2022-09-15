@@ -1,6 +1,5 @@
 package TestRunner;
 
-
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
@@ -12,7 +11,7 @@ import org.junit.runner.RunWith;
                 glue = "StepDefinition",
                 dryRun = false,
                 monochrome = true,
-                plugin = {"pretty","html:test-output.html"},
+                plugin = {"pretty","html:test-output.html", "html:resources/Reports"},
                 tags = "@test"
         )
 class TestRun {

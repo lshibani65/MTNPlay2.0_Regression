@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb188fad-74d7-42f6-8847-bc79d0bb8a9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/frontEndPlayer_And_RelatedIntegration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/full_SearchFunctionality.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/myPlayScreen_Search_Subscription.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/myPlaySearchP_Purchases.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/myPlay_FilterContent.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/myPlay_Screen_Search_Purchases.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/myPlay_Screen_View_Subcription.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/myProfile.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/purchaseToWatch_OnceOff.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/subscribeToWatch_Subscription.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/unsubscribe_Content.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/viewMenuStructure_Movies_AllGenres.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/viewUnsubscribedContent.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/ContactFormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/FrontEndPlayer_And_RelatedIntegrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/Full_SearchFunctionalityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/MyPlaySearchP_PurchasesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/MyPlay_FilterContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/MyPlay_Screen_Search_PurchasesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/MyPlay_Screen_Search_SubscriptionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/MyPlay_Screen_View_SubscriptionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/MyProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/PurchaseToWatch_OnceOffPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/SubscribeToWatch_SubscriptionPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/Unsubscribe_ContentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/ViewMenuStructure_Movies_AllGenresPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/junit-platform.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Driver/chromedriver_v102.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Driver/chromedriver_v104.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features/onlineCalculator.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StepDefinition/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StepDefinition/Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestRunner/testRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestRunner/testRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eblocks/PageObjects/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eblocks/PageObjects/Glob_LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mtnplay/pageObjects/Glob_LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eblocks/PageObjects/OnlineCalculatorPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StepDefinition/Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StepDefinition/Steps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestRunner/TestRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestRunner/TestRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/eblocks/PageObjects/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/eblocks/PageObjects/Glob_LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/eblocks/PageObjects/OnlineCalculatorPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BwdiXUdlzVwuMYTglYs7Rk2Far" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/lunga.shibani/Downloads/MTNPlay2.0_Regression/src/main/java/com/sovtech/PageObjects",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lunga.shibani\Downloads\MTNPlay2.0_Regression\src\main\java\com\sovtech\PageObjects" />
+      <recent name="C:\Users\lunga.shibani\Downloads\MTNPlay2.0_Regression\Features" />
+      <recent name="C:\Users\lunga.shibani\Downloads\MTNPlay2.0_Regression\Driver" />
+      <recent name="C:\Users\lunga.shibani\Desktop\SovTech_Assessment2022\SovTech_Assessment2022\Driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRun (5)">
+    <configuration name="TestRun (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MTNPlay2.0_Regression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.TestRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MTNPlay2.0_Regression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.TestRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MTNPlay2.0_Regression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.TestRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MTNPlay2.0_Regression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.TestRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MTNPlay2.0_Regression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.TestRun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRun (5)" />
+        <item itemvalue="JUnit.TestRun" />
+        <item itemvalue="JUnit.TestRun (4)" />
+        <item itemvalue="JUnit.TestRun (3)" />
+        <item itemvalue="JUnit.TestRun (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb188fad-74d7-42f6-8847-bc79d0bb8a9b" name="Changes" comment="" />
+      <created>1657821208708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657821208708</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
